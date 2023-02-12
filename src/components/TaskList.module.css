@@ -1,0 +1,14 @@
+.taskList {
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+		margin: 5.68rem auto;
+		max-width: 46rem;
+}
+
+.listWrapper {
+	margin-top: 1.5rem;
+	width: 100%;
+	display: flex;
+	flex-direction: column;
+}
